@@ -7,4 +7,3 @@ dependencies:
   - seaborn
   - pandas
   - ipywidgets
-  - testpy.py
